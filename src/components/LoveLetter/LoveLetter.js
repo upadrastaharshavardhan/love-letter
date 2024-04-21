@@ -36,8 +36,8 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         mah dear kannamma🖤,<br />
-		In the vast expanse of my life, your presence stands tall, filling every corner with love and light. Each day, I am grateful for the grandeur of your love and the beauty of your existence. You are the anchor of my soul, and with you, every moment feels monumental and profound.
-So, my darling Kannamma, thank you for being you. Thank you for your love, your laughter, and your beautiful soul. You are the love of my life, my heart, and my home. I am blessed beyond measure to call you my wife.
+		I am grateful for the grandeur of your love and the beauty of your existence and with you, every moment feels monumental and profound.
+So, my darling Kannamma, thank you for being you. Thank you for your love, my heart, and my home. I am blessed beyond measure to call you my wife.
         never have i been so blessed as to fall in love with someone as wonderful as you...<br />i loveeee youuuu :)<br />
         always yours,<br />
         @kanna
