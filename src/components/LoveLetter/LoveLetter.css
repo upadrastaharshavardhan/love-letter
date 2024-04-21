@@ -65,7 +65,7 @@
   
   .letter.fullSize {
     top: 0%;
-    height: 100%;  /* Expand to full screen */
+    height: 150%;  /* Expand to full screen */
     opacity: 1;
     z-index: -2;
     transform: scale(1);  /* Scale up if necessary */
